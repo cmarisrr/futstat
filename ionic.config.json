@@ -1,0 +1,8 @@
+{
+  "name": "futstat",
+  "app_id": "e93fca17",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
